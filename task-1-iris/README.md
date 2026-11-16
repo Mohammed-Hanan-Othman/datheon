@@ -29,7 +29,25 @@ Refer to the `data/` folder for details
 
 ## 🚀 How to Run
 
-This project assumes a typical anaconda setup, as this is sufficient to run the project.
+1. **Clone the repository:**
+
+```bash
+git clone https://github.com/Mohammed-Hanan-Othman/datheon.git
+cd datheon/task-1-iris
+```
+
+2. **Installation and Setup:**
+   This assumes an anaconda environment.
+
+3. **Open notebook**
+
+```bash
+jupyter notebook notebooks/iris-classification.ipynb
+```
+
+4. **Run:**
+   - Run all cells to reproduce the results.
+   - Alternatively, create a new `.py` file and load the saved models from the `.models/` folder to make predictions
 
 ## 🧠 Model Overview
 
