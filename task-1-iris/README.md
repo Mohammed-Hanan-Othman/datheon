@@ -9,6 +9,9 @@ The analysis and modeling are conducted using Python in a Jupyter Notebook, with
 <pre>
 .
 ├── data/ # Dataset used (in .csv format) 
+├── images/ # Model related screenshots
+│ └── confusion-matrix.png
+│ └── decision-boundary.png
 ├── models/ # Saved trained models (pickle files)
 ├── notebooks/ # Jupyter Notebook for exploration and model building
 │ └── iris-classification.ipynb
@@ -71,7 +74,7 @@ Different models are considered as per the project:
 ### Model Screenshots
 
 1. **Confusion Matix:**
-   ![Project](images/confusion-matrix.png)
+   ![Confusion Matrix](images/confusion-matrix.png)
 
 1. **Decision Bounday Visualization:**
 
