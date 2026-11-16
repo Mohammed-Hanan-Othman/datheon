@@ -47,9 +47,37 @@ jupyter notebook notebooks/iris-classification.ipynb
 
 4. **Run:**
    - Run all cells to reproduce the results.
-   - Alternatively, create a new `.py` file and load the saved models from the `.models/` folder to make predictions
+   - Alternatively, create a new `.py` file and load the saved models from the `.models/` folder to make predictions.
 
 ## 🧠 Model Overview
+
+Different models are considered as per the project:
+
+1. **Logistic Regression Model:**
+   - 📈 Model results and metrics
+     - Accuracy: 0.93
+     - Precision: 0.93
+     - Recall: 0.93
+     - f1 score: 0.93
+   - Model Output: Model trained and saved as a `.pkl` file in `.models/` folder.
+
+1. **Decison Tree Model:**
+   - 📈 Model results and metrics
+     - Accuracy: 0.93
+     - Precision: 0.93
+     - Recall: 0.93
+   - Model Output: Model trained and saved as a `.pkl` file in `.models/` folder.
+
+### Model Screenshots
+
+1. **Confusion Matix:**
+   ![Project](images/confusion-matrix.png)
+
+1. **Decision Bounday Visualization:**
+
+   This uses the datasets' strongly correlated featues, `petal_length` and `petal_width`.
+
+   ![Decison Boundary Visualization](images/decison-boundary.png)
 
 ## 📄 License
 
