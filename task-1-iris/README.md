@@ -66,9 +66,10 @@ Different models are considered as per the project:
 
 1. **Decison Tree Model:**
    - 📈 Model results and metrics
-     - Accuracy: 0.93
-     - Precision: 0.93
-     - Recall: 0.93
+     - Accuracy: 0.97
+     - Precision: 0.97
+     - Recall: 0.97
+     - f1 score: 0.97
    - Model Output: Model trained and saved as a `.pkl` file in `.models/` folder.
 
 ### Model Screenshots
