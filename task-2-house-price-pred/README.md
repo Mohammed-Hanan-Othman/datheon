@@ -8,6 +8,14 @@ The analysis and modeling are conducted using Python in a Jupyter Notebook, with
 
 This will contain the file and folder setup for the project
 
+<pre>
+.
+├── data/       # Dataset used (in .csv format) 
+├── models/     # Saved trained models (pickle files)
+├── notebooks/  # Jupyter Notebook for exploration and model building
+└── README.md   # This file
+</pre>
+
 ## 📊 Dataset
 
 Dataset information
